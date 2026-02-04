@@ -1,65 +1,64 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F2027,203A43,2C5364&height=300&section=header&text=Omar%20Mohamed&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Business%20Informatics%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=300&section=header&text=Omar%20Mohamed&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Business%20Informatics%20%7C%20Full-Stack%20Dev%20%7C%20Data%20Analyst&descAlignY=55&descAlign=50" width="100%"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/omarmohamed45/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
-</a>
-<span style="margin: 0 10px;"></span>
-<a href="mailto:omar.mohamed545491@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
-</a>
+<a href="https://www.linkedin.com/in/omarmohamed45/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:omar.mohamed545491@gmail.com"><img src="https://img.shields.io/badge/Gmail-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=🚀+Bridging+Business+Strategy+%26+Software+Engineering;📊+Data+Analyst+Specialist+(Python+%2F+Power+BI);💻+Full-Stack+Developer+(Java+%2F+Flask);🏆+Hult+Prize+Entrepreneur" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=33E1FF&center=true&vCenter=true&width=600&lines=Analyze.+Build.+Innovate.;Mastering+Data+with+Python+%26+Power+BI;Building+Web+Apps+with+Flask+%26+Java;Digital+Transformation+Specialist" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+</div>
 
-<h3>🛠️ Technologies & Tools</h3>
-<table style="border: none;">
+<br/>
+
+<table align="center" border="0" width="100%">
   <tr>
-    <td align="center" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=java,python,flask,html,css,vscode&theme=dark" />
-      <br><b>Development</b>
+    <td width="50%" valign="top">
+      <h3>🚀 Who am I?</h3>
+      <p>
+        I am a <b>Senior Business Informatics Student</b> at <b>Helwan National University</b>. <br><br>
+        I don't just write code; I solve <b>Business Problems</b>. <br>
+        My superpower is combining <b>Financial Intelligence</b> (Accounting/Analysis) with <b>Software Engineering</b> (Java/Flask).
+      </p>
+      <br>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
     </td>
-    <td width="30" style="border: none;"></td>
-    <td align="center" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=powerbi,excel,word,linkedin,idea&theme=dark" />
-      <br><b>Business & Data</b>
+    <td width="50%" valign="top" align="center">
+      <h3>🛠️ Tech Arsenal</h3>
+      <br>
+      <img src="https://skillicons.dev/icons?i=java,python,flask,html,css&theme=dark&perline=3" />
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=powerbi,excel,vscode,git,github&theme=dark&perline=3" />
     </td>
   </tr>
 </table>
 
+<br/>
+
+<h3 align="center">💼 Professional Journey</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/2025-Data_Analyst_(DEPI)-blue?style=flat-square&logo=python"/> ➔ 
+  <img src="https://img.shields.io/badge/2025-FinTech_Trainee_(CIB)-00664F?style=flat-square&logo=bankofamerica"/> ➔ 
+  <img src="https://img.shields.io/badge/2025-Accountant-green?style=flat-square&logo=quickbooks"/>
 </div>
 
 <br/>
 
-## 💼 Professional Experience
-
-> **Currently:** Senior Student @ *Helwan National University*
-
-| Period | Role | Company | Impact |
-| :--- | :--- | :--- | :--- |
-| **Jun 25 - Dec 25** | 📊 **Data Analyst** | *Digital Egypt Pioneers (DEPI)* | Led **Data Governance**, Cleaning, and Visualization using Python. |
-| **2024 - 2025** | 🏦 **FinTech Trainee** | *CIB Egypt* | Digital Transformation, Banking Ops (Partnered with **Frankfurt School**). |
-| **Jun 25 - Sep 25** | 💰 **Accountant** | *Advanced Financial Solutions* | Corporate financial auditing and analysis. |
-| **Jul 24 - Sep 24** | 🚢 **Trainee** | *2M Global Trading* | Supply chain logistics and cross-functional teamwork. |
-
-<br/>
-
 <div align="center">
-  <h2>📈 Coding Analytics</h2>
+  <h2>📊 Live Analytics</h2>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=OMAR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="stats"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMAR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="languages"/>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="150" />
+  </p>
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F2027,203A43,2C5364&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer" width="100%"/>
 </div>
