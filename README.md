@@ -1,73 +1,84 @@
 <div align="center">
- 
- <h1 align="center">Hi, I'm Omar Shehata 👨‍💻</h1>
- <h3 align="center">Business Informatics | Data Analyst | Full-Stack Developer</h3>
- 
- <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=280&section=header&text=Omar%20Shehata&fontSize=80&fontColor=ffffff&desc=Business%20Informatics%20x%20Full-Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+</div>
 
- <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=5D3FD3&center=true&vCenter=true&width=500&lines=Building+Data-Driven+Solutions;Developing+Web+Apps+(Flask+%2F+Java);Transforming+Business+with+Intelligence;Coding+the+Future+of+Finance" alt="Typing SVG" />
- </a>
+<div align="center">
 
- <br/>
- <br/>
+<h3>🚀 Analyzing Data. Building Solutions. Transforming Business.</h3>
+<p>
+  <i>"I bridge the gap between <b>Financial Strategy</b> and <b>Software Engineering</b>."</i>
+</p>
 
- <p align="center">
-   I don't just analyze numbers; I build the systems that generate them. <br>
-   Senior at <b>Helwan National University</b> merging <b>Business Intelligence</b> with <b>Software Engineering</b>.
- </p>
+<a href="YOUR_LINKEDIN_URL" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:YOUR_EMAIL_HERE">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
-<br/>
+</div>
 
-<table align="center" style="border: none;">
+<br>
+
+<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
-   <td align="center" width="130">
-     <img src="https://skillicons.dev/icons?i=python" width="55" height="55" alt="Python" /><br><b>Python</b>
-   </td>
-   <td align="center" width="130">
-     <img src="https://skillicons.dev/icons?i=java" width="55" height="55" alt="Java" /><br><b>Java</b>
-   </td>
-   <td align="center" width="130">
-     <img src="https://skillicons.dev/icons?i=flask" width="55" height="55" alt="Flask" /><br><b>Flask</b>
-   </td>
-   <td align="center" width="130">
-     <img src="https://skillicons.dev/icons?i=html,css" width="55" height="55" alt="Web" /><br><b>HTML/CSS</b>
-   </td>
-    <td align="center" width="130">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="55" height="55" alt="Power BI" /><br><b>Power BI</b>
-   </td>
+    <td width="55%" valign="top">
+      
+## 👨‍💻 The Technical Architect
+
+> **Current Status:** Senior Student @ **Helwan National University** <br>
+> **Focus:** Business Informatics & Digital Transformation
+
+I am not just an analyst; I am a **Builder**. I combine the logic of accounting with the power of code to create efficient, data-driven financial systems.
+
+### 🛠️ Tech Stack & Arsenal
+
+**Web Development (The Build)**
+<br>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
+
+**Data Intelligence (The Analysis)**
+<br>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=Power%20BI&logoColor=white" alt="PowerBI"/>
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=Microsoft%20Excel&logoColor=white" alt="Excel"/>
+
+    </td>
+    
+    <td width="45%" valign="top">
+
+## 💼 Professional Timeline
+
+**Digital Egypt Pioneers (DEPI)**
+<br> *Data Analyst Specialist (Jun 25 - Dec 25)*
+* 🔹 Led end-to-end data governance & visualization projects.
+
+**Commercial International Bank (CIB)**
+<br> *FinTech & Operations Trainee (Summers 24/25)*
+* 🔹 Focused on **Digital Transformation** & Banking Systems.
+* 🔹 Partners: *Frankfurt School & SAS*.
+
+**Advanced Financial Solutions**
+<br> *Junior Accountant (Jun 25 - Sep 25)*
+* 🔹 Corporate financial analysis & auditing.
+
+**Hult Prize Egypt**
+<br> *Social Entrepreneur*
+* 🔹 Conducted SWOT analysis for sustainable business models.
+
+    </td>
   </tr>
 </table>
 
-<br/>
-
-</div>
-
-## 🚀 Career Highlights
-
-#### 🧠 **Data & Strategy**
-* **DEPI (Digital Egypt Pioneers):** Led end-to-end data analytics (Cleaning → Visualization → Governance).
-* **Hult Prize:** Conducted SWOT analysis & market research for social entrepreneurship.
-
-#### 💻 **Development & Tech**
-* **Full-Stack:** Building web applications using **Flask** and **Java**.
-* **Financial Tech:** Experience with banking systems at **CIB** & **Advanced Financial Solutions**.
-
----
+<br>
 
 <div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79ff97&icon_color=79ff97" height="170" alt="Omar's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79ff97&icon_color=79ff97" height="170" alt="Top Languages" />
+  <h2>📈 Coding Activity</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-owl&hide_border=true&bg_color=0f172a" alt="Omar's Stats" />
 </div>
 
-<br/>
-
-<div align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer" width="100%"/>
