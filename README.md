@@ -1,83 +1,85 @@
 <div align="center">
 
-# Hi there, I'm Omar Mohamed Shehata 👋
+# Hi, I'm Omar Mohamed Shehata! 🚀
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F88FF&center=true&vCenter=true&width=435&lines=Data+Analyst+Specialist;Business+Informatics+Student;Digital+Transformation+Enthusiast;Power+BI+%26+Python+Developer)](https://git.io/typing-svg)
+### Business Informatics Specialist | Data Analyst | Developer
 
----
-
-### 🚀 Bridging the Gap Between Business & Data
-
-I am a senior **Business Informatics** student at **Helwan National University**, passionate about transforming raw data into actionable business strategies. With a strong foundation in **Accounting** and **Digital Marketing**, I leverage technology to solve economic and societal challenges.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Data+Analysis+%26+Visualization;Web+Development+(Flask+%2F+Java);Digital+Transformation+Specialist;Business+Intelligence)](https://git.io/typing-svg)
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🌟 About Me
+I am a senior at **Helwan National University** acting as a bridge between **Business Strategy** and **Software Engineering**. 
 
-**Data Analytics & Visualization**
-<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-**Business & Soft Skills**
-<br>
-![Digital Marketing](https://img.shields.io/badge/Digital_Marketing-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![SWOT Analysis](https://img.shields.io/badge/SWOT_Analysis-FF5722?style=for-the-badge)
-![Management](https://img.shields.io/badge/Management-4CAF50?style=for-the-badge)
-![Research](https://img.shields.io/badge/Research_Skills-607D8B?style=for-the-badge)
+Unlike a traditional accountant, I can **build** the tools I use. I combine **Data Analytics** (Python/Power BI) with **Web Development** (Flask/Java) to create digital solutions that solve real economic and business problems.
 
 </div>
 
 ---
 
-## 💼 Professional Timeline
+## 💻 Technical Arsenal
 
-### 📊 **Data Analyst Specialist (Intern)**
-**Digital Egypt Pioneers Initiative (DEPI)** | *Jun 2025 - Dec 2025*
-> A national initiative for digital solutions and economic growth.
-- 🔹 **Capstone:** Completed a comprehensive Data Analytics case study.
-- 🔹 **Tech:** Performed data cleaning, EDA, and visualization using **Python** & **Power BI**.
-- 🔹 **Impact:** Applied Data Governance principles to ensure data accuracy for decision-making.
+<div align="center">
 
-### 💰 **Junior Accountant (Intern)**
-**Advanced Financial Solutions** | *Jun 2025 - Sep 2025*
-- 🔹 Managed financial records and analyzed on-site fiscal data.
+| **Programming & Web Dev** | **Data Science & Analytics** | **Business & Tools** |
+| :---: | :---: | :---: |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) |
+| ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | ![Digital Marketing](https://img.shields.io/badge/Digital_Marketing-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) | ![Management](https://img.shields.io/badge/Management-4CAF50?style=for-the-badge&logo=google-classroom&logoColor=white) |
 
-### 🏦 **Banking & Digital Transformation**
-**CIB Egypt (Commercial International Bank)**
-- **2025:** Operational Banking & Financial Systems (Remote).
-- **2024:** Digital Transformation & Human-Centric Skills (in partnership with *Frankfurt School* & *SAS*).
-
-### 🚢 **Internship Trainee**
-**2M Global Trading** | *Jul 2024 - Sep 2024*
-- 🔹 Focused on Supply Chain logistics and cross-functional teamwork.
+</div>
 
 ---
 
-## 🏆 Innovation & Competitions
+## 💼 Professional Experience
 
-* **Hult Prize Egypt (Participant):** Developed social entrepreneurship models and conducted market research/SWOT analysis to solve global challenges.
+### 📊 **Data Analyst Specialist (Intern)**
+**Digital Egypt Pioneers Initiative (DEPI)** | *Jun 2025 - Dec 2025*
+> *Development of Digital Solutions for Economic Growth*
+* **Tech Stack:** Python (Pandas/Matplotlib), Power BI.
+* **Impact:** Handled end-to-end data lifecycle: Cleaning, EDA, Visualization, and Governance.
+* **Capstone:** Delivered a full-scale analysis case study driving data-driven decisions.
+
+### 🏦 **Banking & Digital Transformation**
+**CIB Egypt (Commercial International Bank)** | *Summers 2024 & 2025*
+* **2025:** Specialized in Banking Operations and Financial Systems.
+* **2024:** Focused on the intersection of **FinTech**, **Digital Transformation**, and Customer Experience. (Partnered with *Frankfurt School* & *SAS*).
+
+### 💰 **Junior Accountant (Intern)**
+**Advanced Financial Solutions** | *Jun 2025 - Sep 2025*
+* Applied rigorous financial analysis and reporting in a corporate setting.
+
+### 🚢 **Supply Chain Trainee**
+**2M Global Trading** | *Jul 2024 - Sep 2024*
+* Optimized communication channels and cross-functional teamwork workflows.
+
+---
+
+## 🏆 Innovation & Projects
+
+* **Hult Prize Egypt (Participant):**
+    * Designed a social entrepreneurship business model.
+    * Conducted market research and **SWOT Analysis** to validate feasibility.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="160" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="160" alt="languages"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-## 🎓 Education
-
-**Bachelor of Commerce: Business Informatics & Digital Transformation**
-*Helwan National University (2022 – 2026)*
-
----
-
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
-
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
 
 </div>
