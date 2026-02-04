@@ -1,84 +1,58 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=280&section=header&text=Omar%20Shehata&fontSize=80&fontColor=ffffff&desc=Business%20Informatics%20x%20Full-Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
-</div>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0F2027,203A43,2C5364&height=200&section=header&text=Omar%20Mohamed&fontSize=70&fontColor=ffffff&desc=Business%20Informatics%20%7C%20Full-Stack%20Developer%20%7C%20Data%20Analyst&descAlignY=60&descAlign=50" width="100%"/>
 
-<h3>🚀 Analyzing Data. Building Solutions. Transforming Business.</h3>
+<br/>
+
+<h3>👋 Turning Data into Decisions & Code into Solutions.</h3>
 <p>
-  <i>"I bridge the gap between <b>Financial Strategy</b> and <b>Software Engineering</b>."</i>
+  Specialized in building the intersection between <b>Financial Systems</b> and <b>Software Engineering</b>.<br>
+  Currently hacking growth at <b>Helwan National University</b>.
 </p>
 
-<a href="YOUR_LINKEDIN_URL" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/omarmohamed45/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL_HERE">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<a href="mailto:omar.mohamed545491@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</div>
+<br/><br/>
 
-<br>
+<h2>🛠️ Technical Expertise</h2>
 
-<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
+<table style="border: none;">
   <tr>
-    <td width="55%" valign="top">
-      
-## 👨‍💻 The Technical Architect
-
-> **Current Status:** Senior Student @ **Helwan National University** <br>
-> **Focus:** Business Informatics & Digital Transformation
-
-I am not just an analyst; I am a **Builder**. I combine the logic of accounting with the power of code to create efficient, data-driven financial systems.
-
-### 🛠️ Tech Stack & Arsenal
-
-**Web Development (The Build)**
-<br>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
-
-**Data Intelligence (The Analysis)**
-<br>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=Power%20BI&logoColor=white" alt="PowerBI"/>
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=Microsoft%20Excel&logoColor=white" alt="Excel"/>
-
+    <td align="center" style="border: none;">
+      <b>Software Development</b><br><br>
+      <img src="https://skillicons.dev/icons?i=java,python,flask,html,css&theme=light" />
     </td>
-    
-    <td width="45%" valign="top">
-
-## 💼 Professional Timeline
-
-**Digital Egypt Pioneers (DEPI)**
-<br> *Data Analyst Specialist (Jun 25 - Dec 25)*
-* 🔹 Led end-to-end data governance & visualization projects.
-
-**Commercial International Bank (CIB)**
-<br> *FinTech & Operations Trainee (Summers 24/25)*
-* 🔹 Focused on **Digital Transformation** & Banking Systems.
-* 🔹 Partners: *Frankfurt School & SAS*.
-
-**Advanced Financial Solutions**
-<br> *Junior Accountant (Jun 25 - Sep 25)*
-* 🔹 Corporate financial analysis & auditing.
-
-**Hult Prize Egypt**
-<br> *Social Entrepreneur*
-* 🔹 Conducted SWOT analysis for sustainable business models.
-
-    </td>
+    <td align="center" style="width: 50px; border: none;"></td> <td align="center" style="border: none;">
+      <b>Data & Business Intelligence</b><br><br>
+      <img src="https://skillicons.dev/icons?i=powerbi,excel,postgres&theme=light" />
+      </td>
   </tr>
 </table>
 
-<br>
+<br/>
 
-<div align="center">
-  <h2>📈 Coding Activity</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-owl&hide_border=true&bg_color=0f172a" alt="Omar's Stats" />
+<div align="left">
+  
+## 🚀 Professional Trajectory
+
+* **Data Analyst Specialist @ DEPI** `2025`
+    * Executed end-to-end data lifecycle projects (Governance & Visualization).
+* **FinTech Trainee @ CIB Egypt** `2024 - 2025`
+    * Bridging banking operations with digital transformation strategies.
+* **Junior Accountant @ Advanced Financial Solutions** `2025`
+    * Corporate auditing and fiscal analysis.
+* **Hult Prize Participant** `2024`
+    * Social Entrepreneurship & SWOT Strategy.
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer" width="100%"/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&count_private=true&theme=transparent" height="160" alt="stats graph" />
+
+</div>
