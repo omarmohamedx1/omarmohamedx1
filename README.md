@@ -1,137 +1,56 @@
-# Omar Mohamed Shehata
+<div align="center">
 
-Business Informatics Student | Data Analyst | Digital Transformation
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000428,004e92&height=280&section=header&text=Omar%20Mohamed&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Business%20Informatics%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 
----
+<br/>
 
-## About Me
+<a href="https://www.linkedin.com/in/omarmohamed45/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+</a>
+<span style="margin: 0 10px;"></span>
+<a href="mailto:omar.mohamed545491@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+</a>
 
-I am a Business Informatics student at Helwan National University specializing in Digital Transformation and Data Analytics.  
-I focus on transforming raw data into meaningful insights using Python, Power BI, and modern analytical practices.
+<br/><br/>
 
-Strong interest in business systems, digital solutions, and data-driven decision making.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=287CC4&center=true&vCenter=true&width=500&lines=Building+Smart+Financial+Solutions;Developing+Web+Apps+(Flask+%2F+Java);Transforming+Data+into+Decisions" alt="Typing SVG" />
+</a>
 
----
+<br/><br/>
 
-## Education
+<h3>🛠️ Technologies & Tools</h3>
+<img src="https://skillicons.dev/icons?i=java,python,flask,html,css,powerbi,excel,vscode&theme=light&perline=8" />
 
-**Helwan National University**  
-Bachelor of Commerce – Business Informatics & Digital Transformation  
-Oct 2022 – Jul 2026  
+</div>
 
-Key Areas:
-- Python Programming  
-- Digital Marketing  
-- Business Informatics  
-- Digital Transformation  
+<br/>
 
----
+## 🚀 Professional Journey
 
-## Technical Skills
+#### 💼 Experience
+| Role | Company | Highlight |
+| :--- | :--- | :--- |
+| **Data Analyst** | *Digital Egypt Pioneers (DEPI)* | Led data governance & visualization projects. |
+| **FinTech Trainee** | *CIB Egypt* | Digital Transformation & Banking Operations. |
+| **Accountant** | *Advanced Financial Solutions* | Corporate financial analysis & auditing. |
 
-### Data & Analytics
-- Python (Pandas, NumPy, Data Analysis)
-- Microsoft Power BI
-- Data Cleaning & Preparation
-- Data Visualization
-- Data Governance
+#### 🎓 Education
+* **Bachelor of Commerce: Business Informatics** — *Helwan National University (2026)*
 
-### Business & Tools
-- Microsoft Office (Excel, PowerPoint, Word)
-- Research & Analysis
-- Business Process Understanding
+<br/>
 
-### Soft Skills
-- Teamwork
-- Communication
-- Management
-- Entrepreneurship
+<div align="center">
+  <h2>📊 Coding Activity</h2>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=PUT_YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=cobalt&hide_border=true&bg_color=00000000" height="160" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PUT_YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=cobalt&hide_border=true&bg_color=00000000" height="160" />
+</div>
 
----
+<br/>
 
-## Experience
-
-### Data Analyst Specialist Intern  
-**Digital Egypt Pioneers Initiative (DEPI)** | Hybrid  
-Jun 2025 – Dec 2025  
-
-Topics Covered:
-- Data Analytics Foundations  
-- Data-Driven Decision Making  
-- Data Preparation & Cleaning  
-- Exploratory Analysis  
-- Visualization Techniques  
-- Python for Data Analysis  
-- Capstone Case Study  
-- Data Governance  
-
----
-
-### Junior Accountant Intern  
-**Advanced Financial Solutions** | On-site  
-Jun 2025 – Sep 2025  
-
-- Financial data entry and reporting  
-- Supporting accounting operations  
-
----
-
-### Internship Trainee  
-**Commercial International Bank (CIB Egypt)** | Remote  
-Jul 2025 – Aug 2025  
-
-- Digital transformation exposure  
-- Data-focused business workflows  
-
----
-
-### Internship Trainee  
-**2M Global Trading** | On-site  
-Jul 2024 – Sep 2024  
-
-- Business operations assistance  
-- Team collaboration  
-
----
-
-### Internship Programs – CIB  
-Remote | Jul 2024 – Aug 2024  
-
-Partners:
-- LinkedIn Learning  
-- Frankfurt School of Finance  
-- SAS  
-
-Focus:
-- Digital transformation  
-- Data skills  
-- Human-centered solutions  
-
----
-
-### Participant – Hult Prize Egypt  
-Feb 2024 – Mar 2024  
-
-- Entrepreneurship  
-- SWOT analysis  
-- Team innovation  
-
----
-
-## Interests
-
-- Data Analytics & BI  
-- Business Intelligence Systems  
-- Digital Transformation  
-- Financial Technology  
-
----
-
-## Contact
-
-- Email: your-email@example.com  
-- LinkedIn: linkedin.com/in/yourprofile  
-- GitHub: github.com/yourusername  
-
----
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000428,004e92&height=80&section=footer" width="100%"/>
+</div>
